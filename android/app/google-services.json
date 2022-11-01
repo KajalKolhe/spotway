@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029190183123",
+    "project_id": "spotway-445bb",
+    "storage_bucket": "spotway-445bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029190183123:android:7edbf3a808a831afc28c26",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029190183123-m6u46tsf2sk2lc93bdp7i07ua080d8kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dashboard",
+            "certificate_hash": "22dcffd1e055fdb63565f7dae7adf82c737b642f"
+          }
+        },
+        {
+          "client_id": "1029190183123-u8vtabiq8s551vjf05tmigl4mb4kqlbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29r_pMMEuvtUUihprEbCzY5AqDEycGd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029190183123-u8vtabiq8s551vjf05tmigl4mb4kqlbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
