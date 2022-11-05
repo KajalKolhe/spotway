@@ -1,42 +1,94 @@
 {
   "project_info": {
-    "project_number": "1029190183123",
-    "project_id": "spotway-445bb",
-    "storage_bucket": "spotway-445bb.appspot.com"
+    "project_number": "641150087939",
+    "firebase_url": "https://spot-rental-pro-default-rtdb.firebaseio.com",
+    "project_id": "spot-rental-pro",
+    "storage_bucket": "spot-rental-pro.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1029190183123:android:7edbf3a808a831afc28c26",
+        "mobilesdk_app_id": "1:641150087939:android:d10a714e34fce583deef36",
         "android_client_info": {
           "package_name": "com.example.dashboard"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1029190183123-m6u46tsf2sk2lc93bdp7i07ua080d8kv.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.dashboard",
-            "certificate_hash": "22dcffd1e055fdb63565f7dae7adf82c737b642f"
-          }
-        },
-        {
-          "client_id": "1029190183123-u8vtabiq8s551vjf05tmigl4mb4kqlbu.apps.googleusercontent.com",
+          "client_id": "641150087939-4idus9l4gl3c010ao0hu7cjjdheeuf4j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB29r_pMMEuvtUUihprEbCzY5AqDEycGd8"
+          "current_key": "AIzaSyCPQIkOBpnEKf-nVwtngtzguuLhmySF5xk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1029190183123-u8vtabiq8s551vjf05tmigl4mb4kqlbu.apps.googleusercontent.com",
+              "client_id": "641150087939-4idus9l4gl3c010ao0hu7cjjdheeuf4j.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "641150087939-8jtad3on80qkd7eo8pdactds6mmf4jvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dashboard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641150087939:android:c161ca93e9f108e0deef36",
+        "android_client_info": {
+          "package_name": "com.m19.spotbuy.sopt_buy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641150087939-f0b965akrkbtadq12ibo9cn2ja4ftpoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m19.spotbuy.sopt_buy",
+            "certificate_hash": "9294dbf7472519ca1d5fd633c1cc549c53534ec7"
+          }
+        },
+        {
+          "client_id": "641150087939-jriae6kpgfhhfcvsnbuu6bg74g3v4lel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m19.spotbuy.sopt_buy",
+            "certificate_hash": "3882b51531b8c7fc2f885ce286f787dd98bbca3e"
+          }
+        },
+        {
+          "client_id": "641150087939-4idus9l4gl3c010ao0hu7cjjdheeuf4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQIkOBpnEKf-nVwtngtzguuLhmySF5xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641150087939-4idus9l4gl3c010ao0hu7cjjdheeuf4j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641150087939-8jtad3on80qkd7eo8pdactds6mmf4jvt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dashboard"
+              }
             }
           ]
         }
